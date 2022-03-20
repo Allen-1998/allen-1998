@@ -6,6 +6,8 @@
 - I am also trying some front-end engineering related construction, hoping to help the team develop more healthily and bring some technical precipitation.  
 - In my spare time, I am also interested in learning some techniques that I have not mastered. Recently, I am learning TS, and I have a plan to read some algorithm problems and add some basic JS knowledge.  
 
+<h2> Github Stats </h2> 
 
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=allen-1998&theme=tokyonight&show_icons=true)](https://github.com/allen-1998/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen-1998&layout=compact&theme=tokyonight" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=allen-1998&theme=tokyonight&show_icons=true" />
