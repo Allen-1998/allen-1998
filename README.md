@@ -8,6 +8,6 @@
 
 <h2> Github Stats </h2> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=allen-1998&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen-1998&layout=compact&theme=tokyonight" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen-1998&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=allen-1998&theme=tokyonight&show_icons=true" />
