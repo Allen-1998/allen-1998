@@ -7,5 +7,5 @@
 - In my spare time, I am also interested in learning some techniques that I have not mastered. Recently, I am learning TS, and I have a plan to read some algorithm problems and add some basic JS knowledge.  
 
 
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=mango-lzp&theme=tokyonight&show_icons=true)](https://github.com/mango-lzp/github-readme-stats)
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=allen-1998&theme=tokyonight&show_icons=true)](https://github.com/allen-1998/github-readme-stats)
 
