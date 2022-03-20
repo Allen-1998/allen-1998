@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Alen.  
+- My name is Allen.  
 - I am currently working in Shanghai.  
 - My current focus is on maintaining and refactoring some of the company's existing projects, because it has limitations as the business has grown, and I find that very interesting and challenging.  
 - I am also trying some front-end engineering related construction, hoping to help the team develop more healthily and bring some technical precipitation.  
