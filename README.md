@@ -8,6 +8,7 @@
 
 #### Languages
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=allen-1998&show_icons=true" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" /></code>
@@ -24,10 +25,3 @@
 #### Interested
 <code><img height="20" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" alt="vitest" /></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/23360933?s=64&v=4" alt="nuxt" /></code>
-
-<h2> Github Stats </h2> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allen-1998&layout=compact" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=allen-1998&show_icons=true" />
-
